@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigoUtilities", "TrigoUtilities\TrigoUtilities.csproj", "{77791E45-7A65-4DD9-AD6C-79B1B9B82D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrigoUtilitiesTest", "TrigoUtilitiesTest\TrigoUtilitiesTest.csproj", "{7C77EAB5-A8AA-44DB-9AA3-90E41596C3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{691CA97A-CBA9-423C-922E-84DC7F058C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77791E45-7A65-4DD9-AD6C-79B1B9B82D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77791E45-7A65-4DD9-AD6C-79B1B9B82D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77791E45-7A65-4DD9-AD6C-79B1B9B82D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77791E45-7A65-4DD9-AD6C-79B1B9B82D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C77EAB5-A8AA-44DB-9AA3-90E41596C3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C77EAB5-A8AA-44DB-9AA3-90E41596C3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C77EAB5-A8AA-44DB-9AA3-90E41596C3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C77EAB5-A8AA-44DB-9AA3-90E41596C3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691CA97A-CBA9-423C-922E-84DC7F058C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691CA97A-CBA9-423C-922E-84DC7F058C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691CA97A-CBA9-423C-922E-84DC7F058C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691CA97A-CBA9-423C-922E-84DC7F058C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
